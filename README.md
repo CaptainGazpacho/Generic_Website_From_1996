@@ -26,6 +26,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```markdown
+I am a Chad
+
+Chad is a Lad
+
+All Lads are Thads
+
+And together they make Dad
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
