@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/CaptainGazpacho/Generic_We
 ```markdown
 I am a member of the CHAD LAD PIRATES
 ```
-![](https://i.redd.it/30njfs9li5u51.jpg =500x500)
+<img src = "https://i.redd.it/30njfs9li5u51.jpg" alt = "Chad being Chaddo" width = "200px" height = "100px"/>
 ```markdown
 I am a Chad
 
