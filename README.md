@@ -15,5 +15,4 @@ All Lads are Thads
 
 And together they make Dad
 ```
-<img src = "![image](https://user-images.githubusercontent.com/45720226/111373264-b158b180-8669-11eb-8ce7-2077fdb8b4fa.png)
-" alt = "pirates">
+<img src = "https://media.tenor.com/images/62e0245fa57be393e81726c60e58bffd/tenor.gif" alt = "pirates">
