@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/CaptainGazpacho/Generic_We
 ```markdown
 I am a member of the CHAD LAD PIRATES
 ```
-
+![](https://i.redd.it/30njfs9li5u51.jpg)
 ```markdown
 I am a Chad
 
