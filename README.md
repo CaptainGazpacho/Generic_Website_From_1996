@@ -2,10 +2,8 @@
 
 Welcome to the land of the Chads as percieved by the ancient ones in 1996
 
-<audio controls>
-  <source src="https://www.youtube.com/watch?v=U0TXIXTzJEY" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+
+
 
 I am a member of the CHAD LAD PIRATES
 
