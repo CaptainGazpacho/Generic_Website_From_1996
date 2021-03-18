@@ -1,7 +1,7 @@
 ## Chadtopia - 1996
 
 Welcome to the land of the Chads as percieved by the ancient ones in 1996
-
+<Link href = "https://github.com/CaptainGazpacho/Generic_Website_From_1996/blob/main/style.css" rel = "stylesheet">
 
 
 
