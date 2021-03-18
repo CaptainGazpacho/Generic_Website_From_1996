@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Chadtopia - 1996
 
-You can use the [editor on GitHub](https://github.com/CaptainGazpacho/Generic_Website_From_1996/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the land of the Chads as percieved by the ancient ones in 1996
 
 ```markdown
 I am a member of the CHAD LAD PIRATES
