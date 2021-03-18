@@ -11,7 +11,7 @@ I am a member of the CHAD LAD PIRATES
 
 <img src = "https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" alt = "Naruto" width = "256px" height = "144px"/>
 <div id="logo">
-    <a href="#">
+    <a href="resources\css\style.css" type="text/css" rel="stylesheet">
         <img src="https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" />
     </a>
 </div>
@@ -29,28 +29,3 @@ And together they make Dad
 Here is a Lad
 
 <img src = "https://thumbs.gfycat.com/GrotesqueGorgeousAmurratsnake-max-1mb.gif" alt = "Goku" width = "256px" height = "144px"/>
-
-#logo { 
-    display: block; 
-    float: left; 
-    margin: 15px 0; 
-    padding: 0;
-    width: 350px; //portion of the image you wish to display
-    height: 50px; //portion of the image you wish to display
-    overflow: hidden; //hide the rest of the image
-}
-#logo img {
-    width: 350px; 
-    height: 100px; // you'll see this is 2x the height of the viewed image
-    padding: 0; 
-    margin: 0;
-}
-#logo a { 
-    display: block; 
-    float: left; 
-    margin: 0; 
-    padding: 0; 
-}
-#logo a:hover { 
-    margin-top: -50px;  //move up to show the over portion of the image
-}
