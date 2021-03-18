@@ -31,14 +31,14 @@ Here is a Lad
 #logo { 
     display: block; 
     float: left; 
-    margin: 128px 0; 
+    margin: 15px 0; 
     padding: 0;
     width: 256px; //portion of the image you wish to display
     height: 144px; //portion of the image you wish to display
     overflow: hidden; //hide the rest of the image
 }
 #logo img {
-    width: 350px; 
+    width: 256px; 
     height: 288px; // you'll see this is 2x the height of the viewed image
     padding: 0; 
     margin: 0;
