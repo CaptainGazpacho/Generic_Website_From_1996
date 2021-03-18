@@ -11,7 +11,7 @@ I am a member of the CHAD LAD PIRATES
 I am a Chad
 
 Chad is a Lad
-                                              <img src = "https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" alt = "NARUTO!!!" width = "256px" height = "144px"/>
+<img src = "https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" alt = "NARUTO!!!" style="object-fit: none; object-position: -256x 0; width = "256px" height = "144px"/>
 All Lads are Thads
 
 And together they make Dad
