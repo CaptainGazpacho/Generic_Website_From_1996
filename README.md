@@ -18,6 +18,6 @@ And together they make Dad
 
 <img src = "https://media.tenor.com/images/62e0245fa57be393e81726c60e58bffd/tenor.gif" alt = "pirates" width = "256px" height = "144px"/>
 
-Here is a Lad```
+Here is a Lad
 
 <img src = "https://thumbs.gfycat.com/GrotesqueGorgeousAmurratsnake-max-1mb.gif" alt = "Goku" width = "256px" height = "144px"/>
