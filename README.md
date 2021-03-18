@@ -31,7 +31,7 @@ Here is a Lad
 #logo { 
     display: block; 
     float: left; 
-    margin: 15px 0; 
+    margin: 128px 0; 
     padding: 0;
     width: 256px; //portion of the image you wish to display
     height: 144px; //portion of the image you wish to display
