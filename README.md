@@ -41,7 +41,7 @@ Here is a Lad
     width: 256px; 
     height: 288px; // you'll see this is 2x the height of the viewed image
     padding: 0; 
-    margin: 64;
+    margin: 0;
 }
 #logo a { 
     display: block; 
@@ -51,4 +51,5 @@ Here is a Lad
 }
 #logo a:hover { 
     margin-top: -50px;  //move up to show the over portion of the image
+    margin-left: -50;
 }
