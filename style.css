@@ -6,8 +6,8 @@
     width: 350px; //portion of the image you wish to display
     height: 100px; //portion of the image you wish to display
     overflow: hidden; //hide the rest of the image
-    margin-left: 200px;
-    padding-left: 200px;
+    margin-left: 2000px;
+    padding-left: 2000px;
 }
 #logo img {
     width: 350px; 
