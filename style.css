@@ -22,3 +22,6 @@
 #logo a:hover { 
     margin-top: -50px;  //move up to show the over portion of the image
 }
+html {
+    color : pink;
+}
