@@ -6,6 +6,7 @@ Welcome to the land of the Chads as percieved by the ancient ones in 1996
 I am a member of the CHAD LAD PIRATES
 ```
 <img src = "https://i.redd.it/30njfs9li5u51.jpg" alt = "Chad being Chaddo" width = "256px" height = "144px"/>
+
 ```markdown
 I am a Chad
 
