@@ -12,7 +12,7 @@ I am a Chad
 
 Chad is a Lad
 
-<img src = "https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" alt = "Naruto" style="float:left; margin-bottom:-5px" width = "256px" height = "144px"/>
+<img src = "https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" alt = "Naruto" style="float:left; margin-bottom:-64px" width = "256px" height = "144px"/>
 
 All Lads are Thads
 
