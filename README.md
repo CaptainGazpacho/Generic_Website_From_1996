@@ -11,9 +11,9 @@ I am a member of the CHAD LAD PIRATES
 
 <img src = "https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" alt = "Naruto" width = "256px" height = "144px"/>
 <div id="logo">
-    <a href="static\style.css" type="text/css" rel="stylesheet">
+    <Link href="static\style.css" type="text/css" rel="stylesheet">
         <img src="https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" />
-    </a>
+    </Link>
 </div>
 
 I am a Chad
