@@ -33,13 +33,13 @@ Here is a Lad
     float: left; 
     margin: 15px 0; 
     padding: 0;
-    width: 256px; //portion of the image you wish to display
-    height: 144px; //portion of the image you wish to display
+    width: 350px; //portion of the image you wish to display
+    height: 50px; //portion of the image you wish to display
     overflow: hidden; //hide the rest of the image
 }
 #logo img {
-    width: 256px; 
-    height: 144px; // you'll see this is 2x the height of the viewed image
+    width: 350px; 
+    height: 100px; // you'll see this is 2x the height of the viewed image
     padding: 0; 
     margin: 0;
 }
@@ -51,5 +51,4 @@ Here is a Lad
 }
 #logo a:hover { 
     margin-top: -50px;  //move up to show the over portion of the image
-    margin-left: -50;
 }
