@@ -40,7 +40,7 @@ Here is a Lad
 #logo img {
     width: 256px; 
     height: 288px; // you'll see this is 2x the height of the viewed image
-    padding: 0; 
+    padding: 64; 
     margin: 0;
 }
 #logo a { 
