@@ -6,6 +6,7 @@
     width: 350px; //portion of the image you wish to display
     height: 100px; //portion of the image you wish to display
     overflow: hidden; //hide the rest of the image
+    margin-left: 200px;
 }
 #logo img {
     width: 350px; 
@@ -18,7 +19,6 @@
     float: left; 
     margin: 0; 
     padding: 0; 
-    margin-left: 200px;
 }
 #logo a:hover { 
     margin-top: -50px;  //move up to show the over portion of the image
@@ -26,3 +26,4 @@
 html {
     color : pink;
 }
+
