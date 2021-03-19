@@ -13,7 +13,7 @@ I am a member of the CHAD LAD PIRATES
 
 <div id="logo">
     <a href = "#">
-        <img src="https://media0.giphy.com/media/JRlqKEzTDKci5JPcaL/200.gif" />
+        <img src = "https://cdn.statically.io/img/media.giphy.com/media/2y98KScHKeaQM/giphy.gif" />
     </a>
 </div>
 
